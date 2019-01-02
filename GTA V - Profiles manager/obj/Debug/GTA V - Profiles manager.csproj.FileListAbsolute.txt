@@ -1,0 +1,14 @@
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\obj\Debug\GTA V - Profiles manager.csprojAssemblyReference.cache
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\obj\Debug\GTAV_Profiles_Manager.MainForm.resources
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\obj\Debug\GTAV_Profiles_manager.Properties.Resources.resources
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\obj\Debug\GTA V - Profiles manager.csproj.GenerateResource.cache
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\obj\Debug\GTA V - Profiles manager.csproj.CoreCompileInputs.cache
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\bin\Debug\GTA V - Profiles manager.exe.config
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\bin\Debug\GTA V - Profiles manager.exe
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\bin\Debug\GTA V - Profiles manager.pdb
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\bin\Debug\Newtonsoft.Json.dll
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\bin\Debug\Newtonsoft.Json.pdb
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\bin\Debug\Newtonsoft.Json.xml
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\obj\Debug\GTA V - Profiles manager.csproj.CopyComplete
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\obj\Debug\GTA V - Profiles manager.exe
+W:\@WORK\C#\Small Projects\GTA V - Profiles manager\GTA V - Profiles manager\obj\Debug\GTA V - Profiles manager.pdb

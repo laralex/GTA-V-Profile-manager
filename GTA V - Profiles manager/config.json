@@ -1,0 +1,33 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "profiles": [
+    {
+      "name": "Egor",
+      "last_enabled": 0,
+      "created": 0
+    },
+    {
+      "name": "Alex",
+      "last_enabled": 0,
+      "created": 0
+    }
+  ],
+  "options": {
+    "rockstar_path": null,
+    "profiles_path": null,
+    "active_profile": "Egor"
+  },
+  "cmd_arguments": [
+    {
+      "command": "-s",
+      "description": "On launch switch profile to next and close application"
+    }
+  ]
+}
