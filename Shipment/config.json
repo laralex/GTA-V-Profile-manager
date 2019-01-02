@@ -1,0 +1,25 @@
+{
+  "profiles": [
+    {
+      "name": "Egor",
+      "created": "01-Jan-2019 09:00",
+      "last_enabled": "02-Jan-2019 19:16"
+    },
+    {
+      "name": "Alex",
+      "created": "01-Jan-2019 09:00",
+      "last_enabled": "02-Jan-2019 19:16"
+    }
+  ],
+  "options": {
+    "path_to_rockstar": "C:\\Users\\Alex\\Documents\\Rockstar Games",
+    "path_to_profiles": "C:\\Users\\Alex\\Documents\\Rockstar Games\\Profiles manager",
+    "active_profile": "Alex"
+  },
+  "cmd_arguments": [
+    {
+      "command": "-s",
+      "description": "On launch switch profile to next and close application"
+    }
+  ]
+}
